@@ -1,7 +1,7 @@
 # Kruskal-MST
 Kruskal Algorithm Minimum Spanning Tree 
 
-This is minimum spanning tree program for determine shortpath from graph using Kruskal Algorithm with Java
+This is minimum spanning tree program for determine shortpath from a graph using Kruskal Algorithm with Java
 
 There are 4 classes in this program :
 
